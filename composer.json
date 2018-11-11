@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-image",
+    "name": "cyzonetech/think-image",
     "description": "The ThinkPHP5 Image Package",
     "license": "Apache-2.0",
     "authors": [
@@ -12,8 +12,7 @@
         "ext-gd": "*"
     },
     "require-dev": {
-        "topthink/framework": "^5.0",
-        "phpunit/phpunit": "4.8.*"
+        "topthink/framework": "^5.1"
     },
     "config": {
         "preferred-install": "dist"
